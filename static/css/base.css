@@ -239,7 +239,7 @@ input[name='q']::placeholder {
 
 /* Product Form */
 .btn-file {
-    position: absolute;
+    position: relative;
     overflow: hidden;
 }
 
