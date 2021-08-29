@@ -218,4 +218,4 @@ DEFAULT_FROM_EMAIL = os.environ.get('boutiqueado@example.com')
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-
+#
